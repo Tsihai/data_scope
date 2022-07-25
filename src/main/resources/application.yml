@@ -1,0 +1,9 @@
+# ?????
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://gz-cynosdbmysql-grp-iggpqhi1.sql.tencentcdb.com:20695/test06?useSSL=false
+    username: root
+    password: Woailiangjiayi!
+  main:
+    banner-mode: off
